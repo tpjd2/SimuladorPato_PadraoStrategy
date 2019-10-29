@@ -1,0 +1,7 @@
+C:\Users\salmo.msjunior\Documents\repos\SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy\bin\Debug\SimuladorPato_PadraoStrategy.exe.config
+C:\Users\salmo.msjunior\Documents\repos\SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy\bin\Debug\SimuladorPato_PadraoStrategy.exe
+C:\Users\salmo.msjunior\Documents\repos\SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy\bin\Debug\SimuladorPato_PadraoStrategy.pdb
+C:\Users\salmo.msjunior\Documents\repos\SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy\obj\Debug\SimuladorPato_PadraoStrategy.csprojAssemblyReference.cache
+C:\Users\salmo.msjunior\Documents\repos\SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy\obj\Debug\SimuladorPato_PadraoStrategy.csproj.CoreCompileInputs.cache
+C:\Users\salmo.msjunior\Documents\repos\SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy\obj\Debug\SimuladorPato_PadraoStrategy.exe
+C:\Users\salmo.msjunior\Documents\repos\SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy\obj\Debug\SimuladorPato_PadraoStrategy.pdb

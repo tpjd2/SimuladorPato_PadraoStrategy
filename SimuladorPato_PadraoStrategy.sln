@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorPato_PadraoStrategy", "SimuladorPato_PadraoStrategy\SimuladorPato_PadraoStrategy.csproj", "{1F243E3D-92FA-4593-9DCC-1D217189808F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F243E3D-92FA-4593-9DCC-1D217189808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F243E3D-92FA-4593-9DCC-1D217189808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F243E3D-92FA-4593-9DCC-1D217189808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F243E3D-92FA-4593-9DCC-1D217189808F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {456A5E4C-C37A-4B99-BDE2-A879C32FD48A}
+	EndGlobalSection
+EndGlobal
